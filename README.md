@@ -8,7 +8,13 @@ Welcome to my GitHub portfolio!
 💡 &nbsp;DevOps Engineer with 9 years experience analyzing, designing, developing, maintaining and intergrating frontend and backend aplicatons. Highly innovative professional with proven ability to adapt in self starting
 and collaborative environments while staying focussed on achieving high quality results under strict deadlines.Able to effectively 
 manage projects, as well as collaborate in team settings
-.\
+
+Teck Stack.
+Framework.
+Tools.
+Cloud Technologies.
+Projects.
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -17,7 +23,7 @@ manage projects, as well as collaborate in team settings
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
