@@ -41,6 +41,12 @@ Projects.
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![POSTGRES](https://img.shields.io/badge/POSTGRES-00001F?style=for-the-badge&logo=postgres&logoColor=white)
+![MONGO](https://img.shields.io/badge/Mongo-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![ORACLE]https://img.shields.io/badge/Oracle-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![GRAPHDB](https://img.shields.io/badge/graphdb-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
