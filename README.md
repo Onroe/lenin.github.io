@@ -20,9 +20,9 @@ Projects.
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Tenserflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=2C2255)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=2C2255)
-![Tensorflow.js](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat&logo=tensorflowjs&logoColor=2C2255)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
+![Tensorflowjs](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat&logo=tensorflowjs)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
@@ -33,7 +33,6 @@ Projects.
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
