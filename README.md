@@ -9,12 +9,6 @@ Welcome to my GitHub portfolio!
 and collaborative environments while staying focussed on achieving high quality results under strict deadlines.Able to effectively 
 manage projects, as well as collaborate in team settings
 
-Teck Stack.
-Framework.
-Tools.
-Cloud Technologies.
-Projects.
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -73,11 +67,6 @@ Projects.
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
-### Operative System
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -87,5 +76,6 @@ Projects.
 </a>
 </p>
 
+### Projects
 
 ![profile count](https://komarev.com/ghpvc/?username=Onroe&color=red)
