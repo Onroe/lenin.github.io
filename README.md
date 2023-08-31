@@ -53,7 +53,7 @@ manage projects, as well as collaborate in team settings
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon Web Services-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![GCP-GoogleCloudPlatform](https://img.shields.io/badge/googlecloudplatfrom-%230db7ed.svg?style=for-the-badge&logo=googlcloudplatform&logoColor=white)
 
 ### Tools
