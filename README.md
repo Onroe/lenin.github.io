@@ -19,10 +19,10 @@ Projects.
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Tenserflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Tensorflow.js](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Tenserflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras&logoColor=2C2255)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch&logoColor=2C2255)
+![Tensorflow.js](https://img.shields.io/badge/-Tensorflow.js-05122A?style=flat&logo=tensorflowjs&logoColor=2C2255)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)
