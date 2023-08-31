@@ -37,7 +37,7 @@ manage projects, as well as collaborate in team settings
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-00599C?style=for-the-badge&logo=postgresql&logoColor=white)
-![MONGO](https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongo&logoColor=white)
+![MONGO](https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-F7DF1E?style=for-the-badge&logo=oracle&logoColor=white)
 ![GRAPHDB](https://img.shields.io/badge/Neo4j-330F63?style=for-the-badge&logo=neo4j&logoColor=white)
 
@@ -53,7 +53,7 @@ manage projects, as well as collaborate in team settings
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AmazonWebServices-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon Web Services-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![GCP-GoogleCloudPlatform](https://img.shields.io/badge/googlecloudplatfrom-%230db7ed.svg?style=for-the-badge&logo=googlcloudplatform&logoColor=white)
 
 ### Tools
