@@ -39,28 +39,27 @@ Projects.
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRES](https://img.shields.io/badge/POSTGRES-00599C?style=for-the-badge&logo=postgres&logoColor=white)
-![MONGO](https://img.shields.io/badge/Mongo-3776AB?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGO](https://img.shields.io/badge/MONGODB-3776AB?style=for-the-badge&logo=mongo&logoColor=white)
 ![ORACLE](https://img.shields.io/badge/Oracle-F7DF1E?style=for-the-badge&logo=oracle&logoColor=white)
 ![GRAPHDB](https://img.shields.io/badge/graphdb-330F63?style=for-the-badge&logo=graphdb&logoColor=white)
 
 
 
-### Data Pipelines
+### Data Tools
 
-![Airflow](https://img.shields.io/badge/Airflow-43853D?style=for-the-badge&logo=airflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-43853D?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-563D7C?style=for-the-badge&logo=airbyte&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/Mlflow-563D7C?style=for-the-badge&logo=mlflow&logoColor=white)
 
 ### Cloud Technologies
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kibernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/amazonwebservices-%230db7ed.svg?style=for-the-badge&logo=aws&logoColor=white)
 ![GCP-GoogleCloudPlatform](https://img.shields.io/badge/googlecloudplatfrom-%230db7ed.svg?style=for-the-badge&logo=googlcloudplatform&logoColor=white)
 
 ### Tools
@@ -86,7 +85,7 @@ Projects.
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Onroe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-<a>
-![profile count](https://komarev.com/ghpvc/?username=Onroe&color=red)
-</a>
 </p>
+
+
+![profile count](https://komarev.com/ghpvc/?username=Onroe&color=red)
